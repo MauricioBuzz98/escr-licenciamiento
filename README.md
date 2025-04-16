@@ -1,4 +1,4 @@
-# Sistema de Licenciamiento ESCR
+# Sistema de Licenciamiento Esencial Costa Rica
 
 ## 🚀 Configuración Inicial
 
