@@ -61,6 +61,14 @@ El proyecto está desarrollado con:
 
 3. Acceder a través del localhost
 
+## 🔑 Acceso al Sistema
+
+### Usuario Super Admin
+- **Email**: admin@admin.com
+- **Contraseña**: password
+
+Este usuario tiene acceso de super administrador.
+
 ## 📦 Despliegue en Producción
 
 1. **Generar Build**
